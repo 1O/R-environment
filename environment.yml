@@ -3,5 +3,4 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - r-base=4.0
-  - r-tidyverse
+  - r-base=4.0.3
