@@ -1,1 +1,2 @@
+pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
 jupyter serverextension enable --py nbgitpuller --sys-prefix
