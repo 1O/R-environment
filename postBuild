@@ -1,3 +1,5 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter serverextension enable --py nbgitpuller --sys-prefix
+conda install -c conda-forge jupyter_contrib_nbextensions
+jupyter nbextension enable exercise2/master
